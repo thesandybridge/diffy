@@ -8,5 +8,5 @@ crossterm = "0.29.0"
 tempfile = "3.23.0"
 
 [[bin]]
-name = "d"
+name = "diffy"
 path = "src/main.rs"
